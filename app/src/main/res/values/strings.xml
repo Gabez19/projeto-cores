@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjetoCores</string>
+    <string name="buttonEnviar">Enviar</string>
+    <string name="editTextCor">Digite uma cor</string>
+</resources>
